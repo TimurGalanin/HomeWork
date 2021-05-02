@@ -36,7 +36,7 @@ public class Main {
         result = n*a*b  * STEPS_IN_FLORE ;
         resultt = nn*aa*bb  * STEPS_IN_FLORE ;
 
-        System.out.println("ваша жизнь увеличиться на " + result + "секунд");
-        System.out.println("ваша жизнь увеличиться на " + resultt + "секунд");
+        System.out.println("сколько всего сульфида " + result + " вам потребуеться");
+        System.out.println("столько сульфида " + resultt + " потребуется на другой стороне");
     }
 }
